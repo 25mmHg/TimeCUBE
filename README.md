@@ -1,3 +1,3 @@
 # TimeCUBE
- take a videostream, swap x with time, show and record it as mp4,  
- jupyter notebook with opencv
+ take a videostream, swap x with time, show and record it as AVI  
+ (jupyter, numpy, opencv) 
